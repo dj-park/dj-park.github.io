@@ -1,7 +1,7 @@
 ---
 title: 'Deep Neural Networks on FPGA exploiting Partial Reconfiguration'
 date: 2021-1-29
-permalink: /posts/2021/1/blog-post-1/
+permalink: /posts/2021/1/NN-FPGA-PR/
 
 tags:
   - AI 반도체

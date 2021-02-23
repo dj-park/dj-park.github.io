@@ -1,5 +1,5 @@
 ---
-title: 'The first blog post'
+title: 'The First Blog Post'
 date: 2020-12-20
 permalink: /posts/2020/12/first-post/
 ---

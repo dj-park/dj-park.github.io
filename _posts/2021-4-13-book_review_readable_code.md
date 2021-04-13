@@ -1,5 +1,5 @@
 ---
-title: ‘Book Review, The Art of Readable Code’
+title: 'Book Review, The Art of Readable Code'
 date: 2021-4-13
 permalink: /posts/2021/4/review_the_art_of_readable_code/
 tags:

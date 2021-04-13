@@ -24,12 +24,12 @@ Some of the Take-aways (quotes directly from the book)
 
 Thought – What to Comment
 ------
-Regarding comments in codes, I rank codes with different comment styles as shown below, 1) being the best, and 4) being the worst.
+Regarding comments in codes, I rank codes with different comment styles as shown below, 1. being the best, and 4. being the worst.
 
-1) Readable code without any comment
-2) Mediocre code with concise and clear comment
-3) Mediocre code with detailed comment
-4) Mediocre code without any comment
+1. Readable code without any comment
+2. Mediocre code with concise and clear comment
+3. Mediocre code with detailed comment
+4. Mediocre code without any comment
 
 
 Thought – Completeness vs Readability

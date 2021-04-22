@@ -38,8 +38,8 @@ even if you are progressing only inch by inch. This way, you sail further becaus
 
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/friction.png"> </p>
 <p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
-Maximal Static Friction is higher than Kinetic Friction, the graph is from
-[here](https://medium.com/@health.tech.hub/loose-ends-static-friction-kinetic-friction-and-healthy-habits-cedc9206a789)
+Maximal Static Friction is higher than Kinetic Friction, the graph is from 
+<A href="https://medium.com/@health.tech.hub/loose-ends-static-friction-kinetic-friction-and-healthy-habits-cedc9206a789"> here </A>
 </p>
 
 Thought – Be Genuine

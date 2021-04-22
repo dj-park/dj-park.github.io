@@ -37,7 +37,7 @@ Related work
 ======
 In the figure below, N similar-sized layers are time-multiplexed, resulting in 1/N resource usage or resulting in N times more parallelism. If partial bitstream loading time is negligible, the former approach maintains latency and throughput suffers to 1/N. The latter approach could result in some benefit in latency and potentially in throughput as well, but its bitstream loading times might not be negligible.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/PR_NN_layers.png"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
     (1) is a design without PR. (2) time-multiplexes each layer, so compared to (1), it costs 1/3 resources. (2) may have similar latency for a single data with (1), but its throughput suffers. (3) has the 3-times size of layers of (1), which leads to more parallelism. However, as the size of reconfigurable block is too large, bitstream loading time must be an overhead.  
 </p>
 
@@ -45,7 +45,7 @@ Among some of the related works I found, [2] is a survey paper on PR(very compre
 
 [3] introduces scenarios where PR achieves better throughput per a given area or better latency per a given area. It's interesting how the authors **interleave two PR regions to hide partial bitstream configuration time**.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/hide_pr_time.JPG"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
      Figure is from [3]. While M<sub>A</sub> is computing, M<sub>B</sub> is loaded. While M<sub>B</sub> is computing, M<sub>C</sub> is laoded, and so on.
 </p>
 

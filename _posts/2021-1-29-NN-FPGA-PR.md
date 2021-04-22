@@ -18,17 +18,17 @@ What is Partial Reconfiguration(PR)?
 ======
 Partial Reconfiguration(PR) is a feature of a modern FPGAs that the part of the design is dynamically modified on runtime while the remaining of the design is still running. As can be seen in the figure below, the part of the design, which was initially configured with A1.bit, can be reconfigured with A2.bit, A3.bit or A4.bit while the “static” logic is unaffected. These bitstreams, A1.bit, A2.bit, A3.bit, and A4.bit are called **partial bitstreams**.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/pr.png"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey; margin-top:1px">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey; margin-top:1px">
     Partial Reconfiguration, Example
 </p>
 PR leads to an **area reduction** to the system that has mutually exclusive functionality. For instance, the design below originally has multiplexers with three functions to choose. In this ASIC style design, only one of the three functions is active at a time.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/xilinx1.JPG"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
     Network Switch WITHOUT Partial Reconfiguration [1]
 </p>
 On the other hand, PR removes this inefficiency by dynamically reconfiguring functions when needed. Another advantage is that, when Port 1 is reconfigured, **others ports can run unaffected**.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/xilinx2.JPG"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
     Network Switch WITH Partial Reconfiguration [1]
 </p>
 One may wonder, “If we don’t need Port2, Port3, and Port4 running when Port1 is reconfigured (so, giving up the advantage I just mentioned), do we need PR at all? Doesn't FPGA's inherent reprogrammability leads to area reduction compared to ASIC?” Yes, this is a reasonable question. You can reconfigure the entire chip by loading the full bitstream instead of loading partial bitstreams. But because the **bitstream loading time** is proportional to the size of the bitstream, the loading time of the partial bitstream is smaller than that of the full bitstream, which gives us an additional advantage. 

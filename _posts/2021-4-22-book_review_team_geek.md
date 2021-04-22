@@ -29,7 +29,7 @@ Authors advise, “Fail Fast; Learn; Iterate.” They say, failure is an option,
 
 Wining habit may be too much an expression, but I am just worried consecutive failures that don’t seem to end could result in a complete breakdown. Set the smallest milestones, and count each of them as a small success. Sometimes what matters is not the final output but the feeling of accomplishment.
 
-This is similar to football players tend to contain the ball and their team has higher possession rate. Although the score sheet is still 0-0, the team that controls the tempo of the game is less likely to feel tired than the team that runs around to take the ball back. Completing one pass by one may be important in “strategy-wise” but this small milestone (completing a simple pass) also makes the players focused and keeps their energy level high.  
+This is similar to football players tend to contain the ball and their team has higher possession. Although the score sheet is still 0-0, the team that controls the tempo of the game is less likely to feel tired than the team that runs around to take the ball back. Completing one pass by one may be important in “strategy-wise” but this small milestone (completing a simple pass) also makes the players focused and keeps their energy level high.  
 
 This accords with people telling PhD students submit/publish the first paper as early as possible, regardless of the quality of the work. The output may not be satisfactory at the moment but it could snowball to become a high-quality work later by making graduate students less depressed.
 
@@ -37,7 +37,7 @@ What we want is a boat that smoothly sails even with a very weak wind blowing. I
 even if you are progressing only inch by inch. This way, you sail further because maximal static friction is greater than kinetic friction.
 
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/friction.png"> </p>
-<p style="font-family: times, serif; font-size:10pt; font-style:italic; text-align:center; color:grey">
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Maximal Static Friction is higher than Kinetic Friction, the graph is from 
 <A href="https://medium.com/@health.tech.hub/loose-ends-static-friction-kinetic-friction-and-healthy-habits-cedc9206a789"> here </A>
 </p>

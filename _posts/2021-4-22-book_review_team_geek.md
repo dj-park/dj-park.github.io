@@ -1,6 +1,6 @@
 ---
 title: 'Book Review, Team Geek: A Software Developer’s Guide to Working Well with Others'
-date: 2021-4-21
+date: 2021-4-22
 permalink: /posts/2021/4/review_team_geek/
 tags:
   - programming

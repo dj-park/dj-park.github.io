@@ -22,21 +22,21 @@ You can easily extract a _tile table_ about a specific chip from Vivado.
 You have probably seen the device view above when you finished synthesis or implementation on Vivado. 
 But if you create **I/O Planning Project**, you have access to the device view without a sample RTL design.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_1.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_1.png" width="800"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Select I/O Planning Project when creating Vivado project
 </p>
 
 Next, click **Device tab** to switch to the device view. Right click, and select **Find**. 
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_2.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_2.png" width="800"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Open up the device view and select Find
 </p>
 
 Here, you want to output all tiles. Thus, the filter outputs tiles of which row value is greater than or equal to 0.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_3.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_3.png" width="800"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Outputs all tiles
 </p>
@@ -45,14 +45,14 @@ Then, the find results are shown in a new tab. Right click, and select **Export 
 I extracted all tiles because I was interested in resource distribution view, 
 but I believe you can tweak the find command to extract whatever necessary information you need.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_4.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_4.png" width="800"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Outputs spreadsheet
 </p>
 
 
 Visualization
- ------
+------
 The spreadsheet we just acquired is like a 2d array(grid). I wanted to color the grid, same resources with same color to see 
 how the designated FPGA looks like. It may not be appropriate to map different resources to identical 2d array element, 
 but I think it is good enough to provide some high-level view. 

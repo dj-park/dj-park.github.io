@@ -1,6 +1,6 @@
 ---
 title: 'FPGA Resource Visualization'
-date: 2021-5-16
+date: 2021-5-15
 permalink: /posts/2021/4/FPGA_resource_visualization/
 tags:
   - FPGA

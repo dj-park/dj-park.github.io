@@ -19,7 +19,7 @@ Some of the Take-aways (quotes directly from the book)
 - Use “big picture” comments at the file/class level to explain how all the pieces fit together.
 - You can also reorder the blocks of an if/else statement. Generally, try to handle the positive/easier/interesting case first. Sometimes these criteria conflict, but when they don’t, it’s a good rule of thumb to follow.
 - Engineering is all about breaking down big problems into smaller ones and putting the solutions for those problems back together. Applying this principle to code makes it more robust and easier to read.
-- Bonus: _You do not really understand something unless you can explain it to your grandmother. - Albert Einstein_
+- >You do not really understand something unless you can explain it to your grandmother. - Albert Einstein
 
 
 Thought – What to Comment

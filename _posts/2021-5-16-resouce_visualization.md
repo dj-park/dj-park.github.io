@@ -22,7 +22,7 @@ You can easily extract a _tile table_ about a specific chip from Vivado.
 You have probably seen the device view above when you finished synthesis or implementation on Vivado. 
 But if you create **I/O Planning Project**, you have access to the device view without a sample RTL design.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_1.png" width="800"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_1.png" width="776"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Select I/O Planning Project when creating Vivado project
 </p>
@@ -36,7 +36,7 @@ Open up the device view and select Find
 
 Here, you want to output all tiles. Thus, the filter outputs tiles of which row value is greater than or equal to 0.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_3.png" width="800"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_3.png" width="922"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Outputs all tiles
 </p>

@@ -29,7 +29,7 @@ Select I/O Planning Project when creating Vivado project
 
 Next, click **Device tab** to switch to the device view. Right click, and select **Find**. 
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_2.png" width="800"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_2.png" width="1200"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Open up the device view and select Find
 </p>
@@ -45,7 +45,7 @@ Then, the find results are shown in a new tab. Right click, and select **Export 
 I extracted all tiles because I was interested in resource distribution view, 
 but I believe you can tweak the find command to extract whatever necessary information you need.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_4.png" width="800"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/step_4.png" width="1200"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Outputs spreadsheet
 </p>

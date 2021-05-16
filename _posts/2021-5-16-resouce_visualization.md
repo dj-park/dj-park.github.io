@@ -74,7 +74,7 @@ I simply split the under-bar and take the first part. Then, I ended up with 30 d
 Concise version
 </p>
 
-I created “main tile” version that if I define _mainTiles_ list in the code like 
+I created “main tile” version that if I define `mainTiles` list in the code like 
 `mainTiles = ["BRAM", "CLB", "CLK", "DSP", "INT", "IO", "PS"]`, then the code will only draws map for tile types listed in `mainTiles`.
 
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/mainTypes.png"> </p>

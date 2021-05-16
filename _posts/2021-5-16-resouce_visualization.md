@@ -60,7 +60,7 @@ It turns about that there are 105 different tile “Type.” The first trial is 
 
 I excluded labels on the colorbar because there are too many labels on different types.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/verbose.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/verbose.png" width="600"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Detailed version
 </p>
@@ -69,7 +69,7 @@ Detailed version
 I created “concise” version, treating “INT_R”(Interconnect Right) and “INT_L” (Interconnect Left) types as just “INT” type. 
 I simply split the under-bar and take the first part. Then, I ended up with 30 different types, which seems to be better than 105 types.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/concise.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/concise.png" width="600"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Concise version
 </p>
@@ -77,7 +77,7 @@ Concise version
 I created “main tile” version that if I define `mainTiles` list in the code like 
 `mainTiles = ["BRAM", "CLB", "CLK", "DSP", "INT", "IO", "PS"]`, then the code will only draws map for tile types listed in `mainTiles`.
 
-<p align="center"> <img src="https://dj-park.github.io/images/posts_img/mainTypes.png"> </p>
+<p align="center"> <img src="https://dj-park.github.io/images/posts_img/mainTypes.png" width="600"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">
 Only interesting tile types
 </p>

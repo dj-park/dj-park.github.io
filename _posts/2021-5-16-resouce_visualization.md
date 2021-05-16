@@ -1,7 +1,7 @@
 ---
 title: 'FPGA Resource Visualization'
-date: 2021-5-15
-permalink: /posts/2021/4/FPGA_resource_visualization/
+date: 2021-5-16
+permalink: /posts/2021/5/FPGA_resource_visualization/
 tags:
   - FPGA
   - Vivado
@@ -11,7 +11,7 @@ FPGAs consist of LUTs, Flip Flops, Block RAMs, DSPs, hard processors, interconne
 In Xilinx Vivado, if you open up the device view window and click some _tile_, 
 the separate window provides a detailed information about what the tile is about. 
 Tile is a unit of physical structure for Xilinx FPGAs. 
-A detailed information about tile, site, bel can be found [here](https://www.rapidwright.io/docs/Xilinx_Architecture.html).
+A detailed information about _tile, site, bel_ can be found [here](https://www.rapidwright.io/docs/Xilinx_Architecture.html).
 
 While you can click each tile and find that the chip consists of a number of columns of different resources, 
 Vivado doesn’t seem to support a high-level visualization of how different resources are located on a chip.

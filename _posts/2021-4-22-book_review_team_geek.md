@@ -46,4 +46,4 @@ Thought – Be Genuine
 ------
 One of my simple principles in human relations is that I always have to be genuine. I probably haven’t experienced the extreme mentioned in the book, or I have been lucky to always have good people around me. But I’ve seen truthfulness and genuineness are usually the best policies and they have saved my efforts to behave how in which situations. Although I don’t have appropriate words in my English vocab list or I don’t exactly know the proper manners, others usually feel my heart if I am being genuine.
 
-Or maybe these are the values I _try_ to pursue, so when I properly followed the rule of genuineness, I felt that there’s nothing wrong. One the other hand, when I didn’t follow the rule, I might have felt insecure. Anyway, at the moment, April in the year of 2021, this principle still holds, and let’s see how it goes.
+Or maybe these are the values I _try_ to pursue, so when I properly followed the rule of genuineness, I felt that there’s nothing wrong. One the other hand, when I didn’t follow the rule, I might have felt insecure. 

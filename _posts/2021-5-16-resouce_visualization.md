@@ -82,4 +82,4 @@ I created “main tile” version that if I define `mainTiles` list in the code 
 Only interesting tile types
 </p>
 
-Code is available in [here]( https://github.com/dj-park/FPGA-resource-visualization).
+Code available [here]( https://github.com/dj-park/FPGA-resource-visualization).

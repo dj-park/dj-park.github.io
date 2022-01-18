@@ -36,9 +36,8 @@ partial bitstreams. Previously, it was either .tcl or .hwh, but in v2.7 I think 
 (or rightclick the block diagram and ***generate output products***. They 
 are the same things).
 Therefore, to facilitate PR in PYNQ, we are kind of forced to create block diagram in Vivado.
-However, I don't think we are forced to use [Vivado Project Flow](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2020_2/ug909-vivado-partial-reconfiguration.pdf#page=73)
+However, we are not forced to use [Vivado Project Flow](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2020_2/ug909-vivado-partial-reconfiguration.pdf#page=73)
 to do PR. In Project flow, we create "child implementation runs" and `launch_runs impl_1` does
 `update_design -black_box` and `lock_design -level routing`, etc under the hood.
-The tutorial above also does it in this manner. 
-Apart from this method, how to explicitly generate static design with finer-grained commands
-will be elaborated in Part 2.
+The tutorial above also does it in this manner.
+But explicitly generating static design with finer-grained commands mentioned above also works.

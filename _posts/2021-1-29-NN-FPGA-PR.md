@@ -60,7 +60,7 @@ In conclusion, I was able to see some specific scenarios that PR is useful in NN
 References
 ------
 1. UG909: Vivado Design Suite User Guide: Partial Reconfiguration, Xilinx, Inc., 2100 Logic Drive, San Jose, CA 95124, April 2018. [Online]. Available: https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_1/ug909-vivado-partial-reconfiguration.pdf
-2. K. Vipin and S. A. Fahmy, "FPGA dynamic and partial reconfiguration: A survey of architectures methods and applications", ACM Computing Surveys, Sep. 2018.
-3. M. Nguyen, N. Serafin, and J. C. Hoe, "Partial Reconfiguration for Design Optimization
+2. K. Vipin and S. A. Fahmy, "FPGA dynamic and partial reconfiguration: A survey of architectures methods and applications", ACM Computing Surveys, Sep. 2018
+3. M. Nguyen, N. Serafin, and J. C. Hoe, "Partial Reconfiguration for Design Optimization", FPL 2020
 4. M. Farhadi, M. Ghasemi, and Y. Yang, "A Novel Design of Adaptive and Hierarchical Convolutional Neural Networks using Partial Reconfiguration on FPGA", IEEE High Performance Extreme Computing Conference, 2019
 5. F. K¨astner, B. Janßen, F. Kautz, M. H¨ubner∗ and G. Corradi, "Hardware/Software Codesign for Convolutional Neural Networks exploiting Dynamic Partial Reconfiguration on PYNQ", IEEE International Parallel and Distributed Processing Symposium Workshops, 2018

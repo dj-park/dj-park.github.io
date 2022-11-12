@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 - **Fast and Flexible FPGA development using Hierarchical Partial Reconfiguration**,\
   International Conference on Field-Programmable Technology (**FPT**), December 2022 \
   **Dongjoon Park**, Yuanlong Xiao, and Andrè DeHon \
@@ -17,7 +18,7 @@ author_profile: true
 - **HiPR: High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**,\
   International Conference on Field Programmable Logic and Applications (**FPL**), August 2022 — **Best Paper Nominee** \
   Yuanlong Xiao, Aditya Hota, **Dongjoon Park**, and Andrè DeHon \
-  <a href=https://github.com/icgrp/hipr>
+  <a href="https://github.com/icgrp/hipr">
     <img src="../images/icons/github.svg" width="24" />
   </a>
   <a href="https://ic.ese.upenn.edu/pdf/hipr_fpl2022.pdf">

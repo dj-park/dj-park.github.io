@@ -7,7 +7,7 @@ author_profile: true
 
 - **Fast and Flexible FPGA development using Hierarchical Partial Reconfiguration**,\
   International Conference on Field-Programmable Technology (**FPT**), December 2022 \
-  (acceptance rate: 25.2\% = 31/123) \
+  (acceptance rate: 25.2% = 31/123) \
   **Dongjoon Park**, Yuanlong Xiao, and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/nested_dfx_fpt2022.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />
@@ -21,7 +21,7 @@ author_profile: true
 
 - **HiPR: High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**,\
   International Conference on Field Programmable Logic and Applications (**FPL**), August 2022 \
-  (**Best Paper Nominne**: 7.0\% = 9/129) \
+  (**Best Paper Nominne**: 7.0% = 9/129) \
   Yuanlong Xiao, Aditya Hota, **Dongjoon Park**, and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/hipr_fpl2022.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />
@@ -32,7 +32,7 @@ author_profile: true
 
 - **Reducing FPGA Compile Time with Separate Compilation for FPGA Building Blocks**, \
   International Conference on Field-Programmable Technology (**FPT**), December 2019 \
-  (acceptance rate: 25.0\% = 26/104) \
+  (acceptance rate: 25.0% = 26/104) \
   Yuanlong Xiao, **Dongjoon Park**, Andrew Butt, Hans Giesen, Zhaoyang Han, Rui Ding, Nevo Magnezi, Raphael Rubin, and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/prflow_fpt2019.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />

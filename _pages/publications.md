@@ -32,6 +32,7 @@ author_profile: true
 
 - **Reducing FPGA Compile Time with Separate Compilation for FPGA Building Blocks**, \
   International Conference on Field-Programmable Technology (**FPT**), December 2019 \
+  (acceptance rate: 25.0\% = 26/104) \
   Yuanlong Xiao, **Dongjoon Park**, Andrew Butt, Hans Giesen, Zhaoyang Han, Rui Ding, Nevo Magnezi, Raphael Rubin, and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/prflow_fpt2019.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />

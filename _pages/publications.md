@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -19,6 +18,8 @@ author_profile: true
     <img src="../images/icons/youtube_color.svg" width="22" />
   </a>
 
+---
+
 - **HiPR: High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**,\
   International Conference on Field Programmable Logic and Applications (**FPL**), August 2022 \
   (**Best Paper Nominne**: 7.0% = 9/129) \
@@ -30,6 +31,8 @@ author_profile: true
     <img src="../images/icons/github.svg" width="24" />
   </a>
 
+---
+
 - **Reducing FPGA Compile Time with Separate Compilation for FPGA Building Blocks**, \
   International Conference on Field-Programmable Technology (**FPT**), December 2019 \
   (acceptance rate: 25.0% = 26/104) \
@@ -37,6 +40,8 @@ author_profile: true
   <a href="https://ic.ese.upenn.edu/pdf/prflow_fpt2019.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />
   </a>
+
+---
 
 - **Case for Fast FPGA Compilation using Partial Reconfiguration**, \
   International Conference on Field Programmable Logic and Applications (**FPL**), August 2018 \

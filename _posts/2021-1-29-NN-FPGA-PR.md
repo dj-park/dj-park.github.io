@@ -14,8 +14,8 @@ Last month, I found that there's some 'AI hardware design contest'([AI 반도체
 
 I thought, if I exploit **Partial Reconfiguration** in this context, I could probably win in novelty because I utilize FPGA’s special characteristic when FPGA is given to prototype ASIC. I am also ready to argue this approach is complementary if other teams come up with efficient implementations of each layer! Unfortunately, I wasn’t 100% buying the idea of exploiting PR in this context, so I ended up not participating in the design contest. Let me share some previous work done related this topic.
 
-What is Partial Reconfiguration(PR)?
-======
+
+## What is Partial Reconfiguration(PR)?
 Partial Reconfiguration(PR) is a feature of a modern FPGAs that the part of the design is dynamically modified on runtime while the remaining of the design is still running. As can be seen in the figure below, the part of the design, which was initially configured with A1.bit, can be reconfigured with A2.bit, A3.bit or A4.bit while the “static” logic is unaffected. These bitstreams, A1.bit, A2.bit, A3.bit, and A4.bit are called **partial bitstreams**.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/pr.png"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey; margin-top:1px">
@@ -33,8 +33,8 @@ On the other hand, PR removes this inefficiency by dynamically reconfiguring fun
 </p>
 One may wonder, “If we don’t need Port2, Port3, and Port4 running when Port1 is reconfigured (so, giving up the advantage I just mentioned), do we need PR at all? Doesn't FPGA's inherent reprogrammability leads to area reduction compared to ASIC?” Yes, this is a reasonable question. You can reconfigure the entire chip by loading the full bitstream instead of loading partial bitstreams. But because the **bitstream loading time** is proportional to the size of the bitstream, the loading time of the partial bitstream is smaller than that of the full bitstream, which gives us an additional advantage. 
 
-Related work
-======
+
+## Related Work
 In the figure below, N similar-sized layers are time-multiplexed, resulting in 1/N resource usage or resulting in N times more parallelism. If partial bitstream loading time is negligible, the former approach maintains latency and throughput suffers to 1/N. The latter approach could result in some benefit in latency and potentially in throughput as well, but its bitstream loading times might not be negligible.
 <p align="center"> <img src="https://dj-park.github.io/images/posts_img/PR_NN_layers.png"> </p>
 <p style="font-family: times, serif; font-size:11pt; font-style:italic; text-align:center; color:grey">

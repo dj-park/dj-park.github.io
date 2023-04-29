@@ -16,8 +16,8 @@ A detailed information about _tile, site, bel_ can be found [here](https://www.r
 While you can click each tile and find that the chip consists of a number of columns of different resources, 
 Vivado doesn’t seem to support a high-level visualization of how different resources are located on a chip.
 
-Extract Resource Information
-------
+
+### Extract Resource Information
 You can easily extract a _tile table_ about a specific chip from Vivado. 
 You have probably seen the device view above when you finished synthesis or implementation on Vivado. 
 But if you create **I/O Planning Project**, you have access to the device view without a sample RTL design.
@@ -51,8 +51,7 @@ Outputs spreadsheet
 </p>
 
 
-Visualization
-------
+### Visualization
 The spreadsheet we just acquired is like a 2d array(grid). I wanted to color the grid, same resources with same color to see 
 how the designated FPGA looks like. It may not be appropriate to map different resources to identical 2d array element, 
 but I think it is good enough to provide some high-level view. 

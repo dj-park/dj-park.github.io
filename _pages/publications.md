@@ -4,6 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **ExHiPR: Extended High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**,\
+  ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), September 2023 \
+  Yuanlong Xiao, **Dongjoon Park**, Zeyu Jaon Niu, Aditya HoTa and Andrè DeHon \
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3617837" style="text-decoration: none">
+    <img src="../images/icons/pdf_color.svg" width="22" />
+  </a>
+
+---
+
 - **Fast and Flexible FPGA development using Hierarchical Partial Reconfiguration**,\
   International Conference on Field-Programmable Technology (**FPT**), December 2022 \
   (acceptance rate: 25.2% = 31/123) \

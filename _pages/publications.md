@@ -4,8 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Asymmetry in Butterfly Fat Tree FPGA NoC**, \
+  International Conference on Field-Programmable Technology (**FPT**), December 2023 (to appear) \
+  **Dongjoon Park**, Zhijing Yao, Yuanlong Xiao and Andrè DeHon
+
+---
+
 - **ExHiPR: Extended High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**,\
-  ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), September 2023 \
+  ACM Transactions on Reconfigurable Technology and Systems (**TRETS**) (to appear) \
   Yuanlong Xiao, **Dongjoon Park**, Zeyu Jaon Niu, Aditya HoTa and Andrè DeHon \
   <a href="https://dl.acm.org/doi/pdf/10.1145/3617837" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />

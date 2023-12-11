@@ -5,8 +5,17 @@ author_profile: true
 ---
 
 - **Asymmetry in Butterfly Fat Tree FPGA NoC**, \
-  International Conference on Field-Programmable Technology (**FPT**), December 2023 (to appear) \
-  **Dongjoon Park**, Zhijing Yao, Yuanlong Xiao and Andrè DeHon
+  International Conference on Field-Programmable Technology (**FPT**), December 2023 \
+  **Dongjoon Park**, Zhijing Yao, Yuanlong Xiao and Andrè DeHon \
+  <a href="https://ic.ese.upenn.edu/pdf/asym_bft_fpt2023.pdf" style="text-decoration: none">
+    <img src="../images/icons/pdf_color.svg" width="22" />
+  </a>
+  <a href="https://github.com/icgrp/asym_bft" style="text-decoration: none">
+    <img src="../images/icons/github.svg" width="24" />
+  </a>
+  <a href="https://youtu.be/C3KUnEZ9AoQ?si=vwXpsIZ1ScTX5_P6" style="text-decoration: none">
+    <img src="../images/icons/youtube_color.svg" width="22" />
+  </a>
 
 ---
 

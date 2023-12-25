@@ -86,7 +86,7 @@ author:
   location         : "Philadelphia, United States"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=thaB6wEAAAAJ&hl=en
   email            : "dopark@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

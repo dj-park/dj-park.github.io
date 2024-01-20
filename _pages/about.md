@@ -11,4 +11,4 @@ I am a 5th year PhD student in University of Pennsylvania and a member of the [I
 
 My research interests include Reconfigurable Computing, Partial Reconfiguration, and Network-on-Chip.\
 You can my find CV [here](https://dj-park.github.io/files/djpark_resume.pdf).\
-I go by *DJ*, an acronym for the full name *DongJoon*.
+I go by *DJ*, an abbreviation for the full name *DongJoon*.

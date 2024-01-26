@@ -6,8 +6,13 @@ author_profile: true
 
 - **REFINE: Runtime Execution Feedback for INcremental Evolution on FPGA Designs**\
   ACM International Symposium on Field-Programmable Gate Arrays (**FPGA**), March 2024 (to appear) \
-  **Dongjoon Park** and Andrè DeHon 
-
+  **Dongjoon Park** and Andrè DeHon \
+  <a href="https://ic.ese.upenn.edu/pdf/refine_fpga2024.pdf" style="text-decoration: none">
+    <img src="../images/icons/pdf_color.svg" width="22" />
+  </a>
+  <a href="https://github.com/icgrp/prflow_REFINE" style="text-decoration: none">
+    <img src="../images/icons/github.svg" width="24" />
+  </a>
 ---
 
 - **Asymmetry in Butterfly Fat Tree FPGA NoC**\

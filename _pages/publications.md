@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 - **REFINE: Runtime Execution Feedback for INcremental Evolution on FPGA Designs**\
-  ACM International Symposium on Field-Programmable Gate Arrays (**FPGA**), March 2024 (to appear) \
+  ACM International Symposium on Field-Programmable Gate Arrays (**FPGA**), March 2024 \
+  (acceptance rate: 22.5% = 20/89) \
   **Dongjoon Park** and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/refine_fpga2024.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />

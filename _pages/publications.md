@@ -50,6 +50,7 @@ author_profile: true
 - **Fast and Flexible FPGA development using Hierarchical Partial Reconfiguration**\
   IEEE International Conference on Field-Programmable Technology (**FPT**), December 2022 \
   (acceptance rate: 25.2% = 31/123) \
+  *Artifact Evaluated - Available, Functional, Reusable, Replicated* \
   **Dongjoon Park**, Yuanlong Xiao, and Andrè DeHon \
   <a href="https://ic.ese.upenn.edu/pdf/nested_dfx_fpt2022.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />

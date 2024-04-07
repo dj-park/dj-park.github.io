@@ -7,15 +7,6 @@ author_profile: true
 
 ---
 
-- **ExHiPR: Extended High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**\
-  ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), March 2024 \
-  Yuanlong Xiao, **Dongjoon Park**, Zeyu Jaon Niu, Aditya HoTa and Andrè DeHon \
-  <a href="https://dl.acm.org/doi/pdf/10.1145/3617837" style="text-decoration: none">
-    <img src="../images/icons/pdf_color.svg" width="22" />
-  </a>
-
----
-
 - **REFINE: Runtime Execution Feedback for INcremental Evolution on FPGA Designs**\
   ACM International Symposium on Field-Programmable Gate Arrays (**FPGA**), March 2024 \
   (acceptance rate: 22.5% = 20/89) \
@@ -28,6 +19,15 @@ author_profile: true
   </a>
   <a href="https://youtu.be/uVOly120UKI?si=hqqMYe_ppzNpmf4x" style="text-decoration: none">
     <img src="../images/icons/youtube_color.svg" width="22" />
+  </a>
+
+---
+
+- **ExHiPR: Extended High-level Partial Reconfiguration for Fast Incremental FPGA Compilation**\
+  ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), March 2024 \
+  Yuanlong Xiao, **Dongjoon Park**, Zeyu Jaon Niu, Aditya HoTa and Andrè DeHon \
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3617837" style="text-decoration: none">
+    <img src="../images/icons/pdf_color.svg" width="22" />
   </a>
 
 ---

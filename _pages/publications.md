@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+
+- **Software-like Incremental Refinement on FPGA using Partial Reconfiguration**\
+  Ph.D. Dissertation, University of Pennsylvania, 2024 \
+  **Dongjoon Park** \
+  <a href="https://dj-park.github.io/files/phd_thesis_dj_1218_3pm.pdf" style="text-decoration: none">
+    <img src="../images/icons/pdf_color.svg" width="22" />
+  </a>
 
 ---
 
@@ -93,11 +101,3 @@ author_profile: true
   <a href="https://ic.ese.upenn.edu/pdf/prflow_fpl2018.pdf" style="text-decoration: none">
     <img src="../images/icons/pdf_color.svg" width="22" />
   </a>
-
-[nested_dfx_repo]: https://github.com/icgrp/prflow_nested_dfx
-[hipr_repo]: https://github.com/icgrp/hipr
-
-[nested_dfx_pdf]: https://ic.ese.upenn.edu/pdf/nested_dfx_fpt2022.pdf
-[hipr_pdf]: https://ic.ese.upenn.edu/pdf/hipr_fpl2022.pdf
-[prflow_fpt2019_pdf]: https://ic.ese.upenn.edu/pdf/prflow_fpt2019.pdf
-[prflow_fpl2018_pdf]: https://ic.ese.upenn.edu/pdf/prflow_fpl2018.pdf

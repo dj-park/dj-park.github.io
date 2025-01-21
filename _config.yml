@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dongjoon(DJ) Park"
+title                    : "DJ Park"
 title_separator          : "-"
 name                     : &name "Dongjoon(DJ) Park"
 description              : &description "personal description"

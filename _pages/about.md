@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an MTS SDE at AMD's FPGA Architecture team. I work on 
-a variety of applications for next-generation FPGA devices.
+I am an MTS SDE at AMD's FPGA Architecture team. I develop 
+a variety of applications on next-generation FPGA devices.
 My Ph.D. research focuses on improving FPGA design productivity, creating a development experience for FPGAs
 that aligns closely with widely accepted software design principles. 
 

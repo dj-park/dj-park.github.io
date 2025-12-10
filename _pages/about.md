@@ -14,6 +14,6 @@ that aligns closely with widely accepted software design principles.
 I go by *DJ*, an abbreviation for the full name *DongJoon*.
 
 - Ph.D. in EE, University of Pennsylvania
-  - Advisor: [Prof. André DeHon](https://www.seas.upenn.edu/~andre/)
+  - Advisor: [Prof. André DeHon](https://www.seas.upenn.edu/~andre/), [Prof. Jing Li](https://www.seas.upenn.edu/~janeli/)
   - Thesis: [Software-like Incremental Refinement on FPGA using Parital Reconfiguration](https://dj-park.github.io/files/phd_thesis_dj_1218_3pm.pdf)
 - B.S. in ECE, Carnegie Mellon University
